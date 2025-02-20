@@ -1,3 +1,3 @@
-﻿# Tvorba webových stránek (ITW)
-## Materiály k cvičeniam
-Tento repozitár obsahuje prezentácie, ktoré používam ako oporu počas počítačových cvičení.
+﻿# Web design (ITW)
+## Materials for exercises
+This repository contains presentations that I use for support during computer exercises.
